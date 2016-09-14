@@ -2,8 +2,8 @@ TO-DO
 
 
 --Prerequirements--
-- Select Code Language
-- get a Team 											✓
+- Select Code Language --> c++
+- get a Team --> me alone
 
 --Release--
 - List VMs and add them to array
